@@ -37,7 +37,7 @@ I am a passionate **Full-Stack Developer** focused on building premium, high-per
 
       | Project | Description | Tech Stack |
       | :--- | :--- | :--- |
-      | **[AI Nexus Insight](https://github.com/mhassannaseerahmed-arch/insightnexus)** | Enterprise Multi-tenant SaaS automating clinioutreach with AI-driven SMS/Email sequences. | React, Node, Mongo, Twilio |
+      | **[AI Nexus Insight](https://github.com/mhassannaseerahmed-arch/insightnexus)** | Enterprise Multi-tenant SaaS automating clinic outreach with AI-driven SMS/Email sequences. | React, Node, Mongo, Twilio |
       | **[FlowPing](https://github.com/mhassannaseerahmed-arch/flow-ping)** | High-velocity outreach platform featuring real-time tracking and automated lead qualification. | React, Express, SQLite |
 
       </div>
