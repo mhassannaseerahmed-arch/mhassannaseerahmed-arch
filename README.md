@@ -47,8 +47,8 @@ I am a passionate **Full-Stack Developer** focused on building premium, high-per
       ### GitHub Stats
 
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mhassannaseerahmed-arch&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a" alt="Overall Stats" height="180px" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassannaseerahmed-arch&layout=compact&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a" alt="Top Languages" height="180px" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhassannaseerahmed-arch&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a" height="180px" />
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhassannaseerahmed-arch&layout=compact&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a" height="180px" />
       </p>
 
       <p align="center">
