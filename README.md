@@ -1,70 +1,133 @@
-<h1 align="center">Hi, I'm Hassan Naseer Ahmed</h1>
+<h1 align="center">👨‍💻 Hassan Naseer Ahmed</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0f172a,50,1d4ed8,100,38bdf8&height=220&section=header&text=Hassan%20Naseer%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20AI%20Specialist&descAlignY=58&descSize=20&descColor=e0f2fe&animation=fadeIn" width="100%" alt="Hassan's Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2d3436,50,0984e3,100,6c5ce7&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&fontAlignY=70" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;SaaS+Architect;AI+Integration+Specialist;Building+the+Future+of+SaaS" alt="Typing SVG" /></a>
+  <a href="https://github.com/mhassannaseerahmed-arch">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
+  </a>
+  <a href="https://flow-ping.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=flat-square&logo=vercel" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mhassannaseerahmed-arch&color=blue&style=flat-square" />
 </p>
 
 ---
 
-### About Me
+## 🚀 About Me
 
-I am a passionate **Full-Stack Developer** focused on building premium, high-performance SaaS applications. My expertise lies in creating seamless user experiences using modern technologies like **React**, **Node.js**, and **AI-driven automation**. I love turning complex problems into elegant, glassmorphic realities.
+I'm a **Full Stack Developer** passionate about building **scalable SaaS applications** and **high-performance automation platforms**. I specialize in creating end-to-end solutions using modern web technologies, with a focus on clean code, user experience, and business impact.
 
-- Currently scaling **AI Nexus Insight** & **FlowPing**.
-- - Mastering **Autonomous AI Agents** and **Microservices Architecture**.
-  - - Ask me about **Next.js optimization**, **Express.js backends**, or **Premium UI/UX**.
-    - - Reach me at: [mhassannaseerahmed@gmail.com](mailto:mhassannaseerahmed@gmail.com)
-     
-      - ---
+- 🎯 **Expertise:** Full-stack JavaScript/TypeScript, React, Node.js, Express, MongoDB
+- 💡 **Focus Areas:** SaaS Products, Real-time Systems, API Design, Automation
+- 🏗️ **Approach:** Architecture-first thinking, type-safe development, scalable solutions
 
-      ### Tech Stack
+---
 
-      <p align="center">
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,mongodb,sqlite,libsql,vercel,git,github,githubactions,npm,pnpm,vscode,postman,figma" />
-        </a>
-      </p>
+## 🛠️ Tech Stack
 
-      ---
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-      ### Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
-      <div align="center">
+---
 
-      | Project | Description | Tech Stack |
-      | :--- | :--- | :--- |
-      | **[AI Nexus Insight](https://github.com/mhassannaseerahmed-arch/insightnexus)** | Enterprise Multi-tenant SaaS automating clinic outreach with AI-driven SMS/Email sequences. | React, Node, Mongo, Twilio |
-      | **[FlowPing](https://github.com/mhassannaseerahmed-arch/flow-ping)** | High-velocity outreach platform featuring real-time tracking and automated lead qualification. | React, Express, SQLite |
+## 📂 Featured Projects
 
-      </div>
+### 🚀 **FlowPing** - Email Outreach Automation Platform
+> High-velocity outreach operations platform with real-time tracking and automated follow-up logic
 
-      ---
+**Tech:** React • Node.js • Express • SQLite • Vercel Crons  
+**Features:** Lead Management, Smart Templates, Campaign Sequences, Real-time Tracking, Automation  
+🔗 [Repository](https://github.com/mhassannaseerahmed-arch/flow-ping) | [Live Demo](https://flow-ping.vercel.app)
 
-      ### GitHub Stats
+---
 
-      <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mhassannaseerahmed-arch&show_icons=true&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a" height="180px" />
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mhassannaseerahmed-arch&layout=compact&theme=radical&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=0f172a" height="180px" />
-      </p>
+### 🏥 **InsightNexus** - Enterprise Clinic Management SaaS
+> AI-driven multi-tenant platform for clinic management with no-show automation and revenue analytics
 
-      <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhassannaseerahmed-arch&theme=radical" alt="Profile Details" width="100%" />
-      </p>
+**Tech:** React • Node.js • Express • MongoDB • Twilio API  
+**Features:** Kiosk-style Booking, Automated SMS, AI Analytics Dashboard, Multi-tenant Architecture  
+🔗 [Repository](https://github.com/mhassannaseerahmed-arch/insightnexus)
 
-      ---
+---
 
-      ### Connect With Me
+### 🛒 **ShopFlow** - Full-Stack E-Commerce Platform
+> Modern e-commerce solution with secure authentication, product management, and order processing
 
-      <p align="center">
-        <a href="https://linkedin.com/in/hassannaseerahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-          <a href="https://github.com/mhassannaseerahmed-arch"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-            <a href="mailto:mhassannaseerahmed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      </p>
+**Tech:** React • TypeScript • Node.js • MongoDB • Tailwind CSS  
+**Features:** JWT Authentication, Product Catalog, Shopping Cart, Order Management  
+🔗 [Frontend](https://github.com/mhassannaseerahmed-arch/shop-flow-frontend) | [Backend](https://github.com/mhassannaseerahmed-arch/shop-flow-backend)
 
-      <p align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" width="100%" />
-      </p>
+---
+
+### 👥 **Client Management SaaS** - Enterprise Operations Dashboard
+> Comprehensive client management ecosystem with role-based access control and project tracking
+
+**Tech:** React • TypeScript • Express • MongoDB • React Router  
+**Features:** RBAC, Client/Project/Task Management, Employee Tracking, Reports  
+🔗 [Frontend](https://github.com/mhassannaseerahmed-arch/client-management-saas-frontend) | [Backend](https://github.com/mhassannaseerahmed-arch/client-management-saas-backend)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhassannaseerahmed-arch&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhassannaseerahmed-arch&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 💼 Core Competencies
+
+| Category | Skills |
+| --- | --- |
+| **Frontend** | React, TypeScript, Tailwind CSS, Redux, Vite, Responsive Design |
+| **Backend** | Node.js, Express, REST APIs, JWT Authentication, MongoDB, Mongoose |
+| **Databases** | MongoDB, SQLite, Data Modeling, Optimization |
+| **DevOps** | Vercel Deployment, Environment Management, Cron Jobs |
+| **Tools** | Git, GitHub, npm, Postman, VS Code |
+| **Soft Skills** | Architecture Design, Problem Solving, Clean Code, Documentation |
+
+---
+
+## 🎓 What I Build
+
+✨ **Scalable SaaS Applications** - Multi-tenant, production-ready platforms  
+⚙️ **Automation Systems** - Intelligent workflows and scheduled operations  
+📊 **Analytics Dashboards** - Real-time insights and reporting  
+🔐 **Secure Authentication** - JWT-based systems with role-based access control  
+🚀 **High-Performance APIs** - RESTful services with optimal database queries
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/mhassannaseerahmed-arch">
+    <img src="https://img.shields.io/badge/GitHub-@mhassannaseerahmed--arch-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c5ce7&height=100&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <sub>💪 Building exceptional software, one commit at a time</sub>
+</p>
