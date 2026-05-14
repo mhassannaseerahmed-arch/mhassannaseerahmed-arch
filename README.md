@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0984e3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;SaaS+Architect;React+%7C+Node.js+Expert;Building+High-Performance+Apps;Automation+Platform+Specialist" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/mhassannaseerahmed-arch">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github" />
   </a>
@@ -119,6 +123,9 @@ I'm a **Full Stack Developer** passionate about building **scalable SaaS applica
 <p align="center">
   <a href="https://github.com/mhassannaseerahmed-arch">
     <img src="https://img.shields.io/badge/GitHub-@mhassannaseerahmed--arch-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:mhassannaseerahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
